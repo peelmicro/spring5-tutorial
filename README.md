@@ -1,4 +1,4 @@
-# Spring Framework 5: Beginner to Guru
+# Spring Framework 5: Spring Framework And Dependency Injection For Beginners
 
 > source code for the "Spring Framework And Dependency Injection For Beginners" Udemy course
 
