@@ -2,9 +2,11 @@ package com.peelmicro.spring5tutorial.mail;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
+import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component
+@Primary
 public class MockMailSender implements MailSender {
 
 	private static Log log = LogFactory.getLog(MockMailSender.class);
